@@ -1,0 +1,93 @@
+{
+	"data" :
+	{
+		"questions": [
+			 "1) Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",
+			 "2) Which of the following fraction is the largest",
+		     "3) Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case.",
+			 "4) The least perfect square, which is divisible by each of 21, 36 and 66 is",
+			 "5) If 20% of a = b, then b% of 20 is the same as:",
+			 "6) A man walked diagonally across a square lot. Approximately, what was the percent saved by not walking along the edges?",
+			 "7) Find the odd man out",
+			 "8) 582, 605, 588, 611, 634, 617, 600",
+			 "9) 8, 24, 12, 36, 18, 54, (....)",
+			 "10) Find the greatest number that will divide 43, 91 and 183 so as to leave the same remainder in each case."
+		],
+		"answers": [
+			[
+				"4",
+				"7",
+				"9",
+				"13"
+			],
+			[
+				"7/8",
+				"13/16",
+				"31/40",
+				"63/80"
+			],
+			[
+				"4",
+				"7",
+				"9",
+				"13"
+			],
+		 [
+				"21344",
+				"21433",
+				"213454",
+				"213444"
+			],
+		 [
+				"5% of a",
+				"4% of a",
+				"20% of a",
+				"none"
+			],
+			[
+				"20",
+				"24",
+				"30",
+				"33"
+			],
+			[
+				"10",
+				"45",
+				"54",
+				"75"
+			],
+			[
+				"634",
+				"611",
+				"605",
+				"600"
+			],
+			[
+				"27",
+				"108",
+				"68",
+				"72"
+			],
+			[
+				"4",
+				"7",
+				"9",
+		     	"13"
+			]
+		],
+		"solutions": [
+			 "7",
+			 "7/8",
+			 "4",
+			 "213444",
+			 "4% of a",
+			 "30",
+			 "54",
+			 "605",
+			 "68",
+			 "4"
+		]
+	}
+
+}
+
